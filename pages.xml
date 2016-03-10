@@ -1,0 +1,228 @@
+<beacondo>
+	<section>
+		<id><![CDATA[New section]]></id>
+		<title><![CDATA[New section]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[iconSwitchSection.png]]></image>
+			<link type="switchSection"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Exhibit 100]]></id>
+				<ean><![CDATA[Exhibit 100]]></ean>
+				<title><![CDATA[Exhibit 100]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[exampleThumbnail.png]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">Exhibit 100 Text</font></p>
+]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="1">
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[iconHeart.png]]></image>
+			<link type="addBasketSingle"><![CDATA[Exhibit 100 Favorited!]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Exhibit 200]]></id>
+				<ean><![CDATA[Exhibit 200]]></ean>
+				<title><![CDATA[Exhibit 200]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[https://bizzartech.com]]></content>
+
+				<contentSource><![CDATA[web]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[iconHeart.png]]></image>
+			<link type="addBasketSingle"><![CDATA[Exhibit 200 Favorited!]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Exhibit 300]]></id>
+				<ean><![CDATA[Exhibit 300]]></ean>
+				<title><![CDATA[Exhibit 300]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[exampleThumbnail.png]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px"><font face="Helvetica" size="6" style="font: 21.0px Helvetica; font-kerning: none; -webkit-text-stroke: 0px #000000">Exhibit 300 Text</font></p>
+]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="210" pagingDots="0">
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="nothing"><![CDATA[]]></link>
+					</state>
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[iconHeart.png]]></image>
+			<link type="addBasketSingle"><![CDATA[Exhibit 300 Favorited!]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[Getting Started]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Getting Started]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">Welcome! To get started looking for beacons, tap on the Scan tab and then tap Start Scan. If it doesn’t work right away, try tapping Stop Scan, then tap Start Scan and try again. If it still can’t find the beacon, please report the issue to staff. Enjoy your visit and let us know if you have any questions.</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+	<section>
+		<id><![CDATA[Test Pages]]></id>
+		<title><![CDATA[Test Pages]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[Feedback]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[Feedback]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[navBarLogo.png]]></titleImage>
+				<thumbnail><![CDATA[]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<style>body { font: 16pt Helvetica; }</style> Your text here.]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+			<page>
+				<id><![CDATA[It Worked]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[It Worked]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[<p style="margin: 0.0px 0.0px 0.0px 0.0px; line-height: 24.0px"><font face="Helvetica" size="6" color="#000000" style="font: 21.0px Helvetica; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000">It worked!!</font></p>]]></content>
+
+				<contentSource><![CDATA[inline]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+	<section>
+		<id><![CDATA[Section 1]]></id>
+		<title><![CDATA[Section 1]]></title>
+
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+		<pages>
+			<page>
+				<id><![CDATA[bizzartech.com]]></id>
+				<ean><![CDATA[]]></ean>
+				<title><![CDATA[bizzartech.com]]></title>
+				<price><![CDATA[]]></price>
+				<titleImage><![CDATA[]]></titleImage>
+				<thumbnail><![CDATA[]]></thumbnail>
+				<thumbnailFromHeader><![CDATA[0]]></thumbnailFromHeader>
+				<content><![CDATA[https://bizzartech.com]]></content>
+
+				<contentSource><![CDATA[web]]></contentSource>
+
+				<contentTemplate><![CDATA[pageTemplate.html]]></contentTemplate>
+
+				<header type="carousel" height="180" pagingDots="0">
+				</header>
+		<rightButton>
+			<title><![CDATA[]]></title>
+			<image><![CDATA[]]></image>
+			<link type="nothing"><![CDATA[]]></link>
+		</rightButton>
+
+			</page>
+		</pages>
+	</section>
+</beacondo>

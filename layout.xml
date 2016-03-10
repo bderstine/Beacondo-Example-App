@@ -1,0 +1,306 @@
+<beacondo>
+	<screens>
+		<screen>
+			<id><![CDATA[Home]]></id>
+			<title><![CDATA[Home]]></title>
+			<titleImage><![CDATA[navAppLogo.png]]></titleImage>
+			<icon><![CDATA[iconHome.png]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[#ffffffff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="carousel" height="180" pagingDots="1">
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="pageID"><![CDATA[Exhibit 100]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="pageID"><![CDATA[Exhibit 200]]></link>
+					</state>
+					<state>
+						<content><![CDATA[exampleProduct.png]]></content>
+						<link type="pageID"><![CDATA[Exhibit 300]]></link>
+					</state>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Getting Started]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="pageID"><![CDATA[Getting Started]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Exhibit 100]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="pageID"><![CDATA[Exhibit 100]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Exhibit 200]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="pageID"><![CDATA[Exhibit 200]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Exhibit 300]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="pageID"><![CDATA[Exhibit 300]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+			</layout>
+		</screen>
+		<screen>
+			<id><![CDATA[Scan]]></id>
+			<title><![CDATA[Scan]]></title>
+			<titleImage><![CDATA[navAppLogo.png]]></titleImage>
+			<icon><![CDATA[iconMenu.png]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[#ffffffff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[feffffff]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Start Scan]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="startBeacons"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[feffffff]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Stop Scan]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="stopBeacons"><![CDATA[]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Test Beacon]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="showBeaconDistance"><![CDATA[2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6, 1, 1]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+			</layout>
+		</screen>
+		<screen>
+			<id><![CDATA[Features]]></id>
+			<title><![CDATA[Features]]></title>
+			<titleImage><![CDATA[navAppLogo.png]]></titleImage>
+			<icon><![CDATA[iconSwitchSection.png]]></icon>
+
+			<backgroundImage><![CDATA[]]></backgroundImage>
+
+			<backgroundColor><![CDATA[#ffffffff]]></backgroundColor>
+
+			<leftButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</leftButton>
+
+			<rightButton>
+				<title><![CDATA[]]></title>
+				<image><![CDATA[]]></image>
+				<link type="nothing"><![CDATA[]]></link>
+			</rightButton>
+
+			<layout>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Favorites]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[See your favorite exhibits!]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="showBasket"><![CDATA[Favorites]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Play Movie]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Play a sample movie]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="movie"><![CDATA[sample.mp4]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+				<item type="row" height="0">
+					<backgroundImage><![CDATA[]]></backgroundImage>
+					<backgroundColor><![CDATA[00000000]]></backgroundColor>
+					<thumbnail><![CDATA[]]></thumbnail>
+					<title><![CDATA[Send Feedback]]></title>
+					<titleFont><![CDATA[HelveticaNeue-Thin]]></titleFont>
+					<titleSize><![CDATA[20]]></titleSize>
+					<titleAlignment><![CDATA[center]]></titleAlignment>
+					<titleColor><![CDATA[000000ff]]></titleColor>
+					<subtitle><![CDATA[Share your ideas!]]></subtitle>
+					<subtitleFont><![CDATA[HelveticaNeue-Light]]></subtitleFont>
+					<subtitleSize><![CDATA[14]]></subtitleSize>
+					<subtitleAlignment><![CDATA[center]]></subtitleAlignment>
+					<subtitleColor><![CDATA[000000ff]]></subtitleColor>
+					<useDefaultFonts><![CDATA[1]]></useDefaultFonts>
+					<link type="emailSupport"><![CDATA[Feedback]]></link>
+					<showsArrow>0</showsArrow>
+				</item>
+			</layout>
+		</screen>
+	</screens>
+
+	<beacons>
+		<beacon>
+			<uuid><![CDATA[2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6]]></uuid>
+			<majorValue>1</majorValue>
+			<minorValue>1</minorValue>
+			<rangeLimit>3</rangeLimit>
+			<link type="pageID"><![CDATA[Exhibit 200]]></link>
+			<prompt><![CDATA[]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6]]></uuid>
+			<majorValue>1</majorValue>
+			<minorValue>2</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="movie"><![CDATA[sample.mp4]]></link>
+			<prompt><![CDATA[]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>once</frequency>
+		</beacon>
+		<beacon>
+			<uuid><![CDATA[2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6]]></uuid>
+			<majorValue>1</majorValue>
+			<minorValue>3</minorValue>
+			<rangeLimit>1</rangeLimit>
+			<link type="url"><![CDATA[https://bizzartech.com]]></link>
+			<prompt><![CDATA[]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>once</frequency>
+		</beacon>
+	</beacons>
+</beacondo>
